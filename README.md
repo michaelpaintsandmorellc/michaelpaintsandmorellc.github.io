@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Michael Paints and More, LLC
 
 You can use the [editor on GitHub](https://github.com/michaelpaintsandmorellc/michaelpaintsandmorellc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
